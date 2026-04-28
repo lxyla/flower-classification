@@ -1,6 +1,6 @@
 # 🌸 Flower Image Classification (CNN)
 
-## 📌 Overview
+## Overview
 This project builds a Convolutional Neural Network (CNN) to classify images of flowers into five categories:
 
 - Daisy  
@@ -13,7 +13,7 @@ The goal is to explore deep learning techniques for image classification and und
 
 ---
 
-## 🧠 Learning Objectives
+## Learning Objectives
 - Understand how Convolutional Neural Networks (CNNs) work  
 - Learn image preprocessing and dataset handling  
 - Train and evaluate a deep learning model  
