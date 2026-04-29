@@ -21,7 +21,7 @@ The goal is to explore deep learning techniques for image classification and und
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```bash
 flower-classification/
 │
@@ -30,3 +30,17 @@ flower-classification/
 ├── src/               # scripts (training, utilities)
 ├── requirements.txt
 └── README.md
+```
+
+---
+
+## Results & Observations
+
+The model achieved high training accuracy (~96%) but significantly lower validation accuracy (~61%), indicating overfitting.
+
+This suggests that the model learned patterns specific to the training data but struggled to generalise to unseen images.
+
+Future improvements include:
+- applying data augmentation
+- adding dropout layers
+- reducing model complexity
